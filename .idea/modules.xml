@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GraphAPP/.idea/GraphAPP.iml" filepath="$PROJECT_DIR$/../GraphAPP/.idea/GraphAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SchoolStuffSystem.iml" filepath="$PROJECT_DIR$/.idea/SchoolStuffSystem.iml" />
+    </modules>
+  </component>
+</project>
